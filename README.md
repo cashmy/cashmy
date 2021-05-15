@@ -10,7 +10,7 @@ Toolbox
 
 Design-Project Management  
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="XD logo" width="50" height="50" /> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png" alt="Draw IO logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="XD logo" width="50" height="50" /> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png" alt="Draw IO logo" width="50" height="50" /> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/4_Indesign_Adobe_logo_logos-512.png" alt="InDesign logo" width="50" height="50" />
 
 
 Languages and FrontEnd
@@ -22,21 +22,26 @@ BackEnd-ORM's
 
 <img src="https://lh3.googleusercontent.com/proxy/BE5vPR26bWvLrJj6gA0TgU9iBj6kmOEhRYgoAngLxYSrY_PSy_ZF7tmveobHJhHe1nh_6Tq6t1ExjUSFiALo-kmCHkPswEx4Iabx3PYt2SLsNxnjJll7_Ca6B3n9oQ" alt="ASP.net logo" width="100" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django logo" width="50" height="50" /> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="ExpressJS logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50" height="50" />
 
+
 Datbases
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" width="50" height="50" />
+
 
 IDE's
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="Pycharm logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio logo" width="50" height="50" />
 
+
 Version Control & Package Managers
 
 <img src="https://www.pngkey.com/png/full/178-1787243_github-icon-png-github-icon-white-png.png" alt="GitHub logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn logo" width="50" height="50" /> <img src="https://www.nuget.org/Content/gallery/img/logo-og-600x600.png" alt="NuGet logo" width="50" height="50" />
 
+
 Styling
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" width="50" height="50" /> <img src="https://iconape.com/wp-content/png_logo_vector/vuetify.png" alt="Vuetify" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI logo" width="100" height="50" />
+
 
 Testing-TDD-Sandbox
 
