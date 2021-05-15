@@ -47,7 +47,10 @@ Testing-TDD-Sandbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="Chrome logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="Mocha logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" alt="Codepen logo" width="50" height="50" />
  
+3rd Party API Integrations
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" alt="Google Maps" width="50" height="50" /> <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/youtube-icon-app-logo-png-9.png" alt="Youtube" width="50" height="50" /> 
+<img src="https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_150x94.png" alt="PayPal" width="75" height="50" />
 
 ---
 
