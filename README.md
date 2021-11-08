@@ -22,8 +22,11 @@ BackEnd-ORM's
 
 <img src="https://www.natmarchand.fr/wp-content/uploads/2018/05/asp.net_.jpg" alt="ASP.net logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django logo" width="50" height="50" /> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="ExpressJS logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50" height="50" />
 
+CI/CD
 
-Datbases
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/travis/travis-plain.svg" alt="Travis logo" width="50" height="50" />
+
+Databases
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" width="50" height="50" />
 
