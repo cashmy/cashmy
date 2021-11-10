@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cashmy  Cash Myers
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning C#, .NET, Python, flutter/dart
+- 🌱 I’m currently developing my Docker and Kubernetes skills
 - 💞️ I’m looking to collaborate on flutter/dart, React, and C#
 - 📫 How to reach me cmyers880@gmail.com
 
