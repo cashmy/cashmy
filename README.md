@@ -56,6 +56,8 @@ Testing-TDD-Sandbox
 <img src="https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_150x94.png" alt="PayPal" width="75" height="50" />
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cashmy)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 <!---
 cashmy/cashmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
