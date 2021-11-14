@@ -48,7 +48,8 @@ Styling
 
 Testing-TDD-Sandbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="Chrome logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="Mocha logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" alt="Codepen logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="Chrome logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="Mocha logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" alt="Codepen logo" width="50" height="50" /> <img src="https://github.com/cashmy/cashmy/blob/main/8908513.png" alt="Cypress logo" width="50" height="50" />
+
  
 3rd Party API Integrations
 
