@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently developing my Docker and Kubernetes skills
 - 💞️ I’m looking to collaborate on flutter/dart, React, and C#
-- 📫 How to reach me cmyers880@gmail.com
+- 📫 How to reach me cmyers880@gmail.com and on [LinkedIn](https://www.linkedin.com/in/cash-myers-91b69b23)
 
 ---
 
