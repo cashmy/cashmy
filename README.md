@@ -38,7 +38,7 @@ IDE's
 
 Version Control & Package Managers
 
-<img src="https://www.pngkey.com/png/full/178-1787243_github-icon-png-github-icon-white-png.png" alt="GitHub logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn logo" width="50" height="50" /> <img src="https://www.nuget.org/Content/gallery/img/logo-og-600x600.png" alt="NuGet logo" width="50" height="50" />
+<img src="https://www.pngkey.com/png/full/178-1787243_github-icon-png-github-icon-white-png.png" alt="GitHub logo" width="50" height="50" /> <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn logo" width="50" height="50" /> <img src="https://www.nuget.org/Content/gallery/img/logo-og-600x600.png" alt="NuGet logo" width="50" height="50" />
 
 
 Styling
@@ -55,6 +55,11 @@ Testing-TDD-Sandbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" alt="Google Maps" width="50" height="50" /> <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/youtube-icon-app-logo-png-9.png" alt="Youtube" width="50" height="50" /> 
 <img src="https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_150x94.png" alt="PayPal" width="75" height="50" />
+
+Amazon Web Services
+
+<img src="https://images.edrawsoft.com/images2020/Amazon-EC2.jpg" alt="EC2 logo" width="50" height="50" /> <img src="https://images.edrawsoft.com/images2020/icon/Elastic%20Load%20Balancing.png" alt="ELB logo" width="50" height="50" /> <img src="https://images.edrawsoft.com/images2020/icon/aws-elastic-beanstalk.jpg" alt="EB logo" width="50" height="50" /> <img src="https://images.edrawsoft.com/images2020/icon/amazon-s3.jpg" alt="S3 logo" width="50" height="50" />
+
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cashmy)](https://github.com/anuraghazra/github-readme-stats)
