@@ -20,7 +20,7 @@ Languages and FrontEnd
 
 BackEnd-ORM's
 
-<img src="https://www.natmarchand.fr/wp-content/uploads/2018/05/asp.net_.jpg" alt="ASP.net logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django logo" width="50" height="50" /> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="ExpressJS logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50" height="50" />
+<img src="https://www.natmarchand.fr/wp-content/uploads/2018/05/asp.net_.jpg" alt="ASP.net logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50" height="50" /> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="ExpressJS logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50" height="50" />
 
 CI/CD
 
