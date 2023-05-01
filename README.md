@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cashmy  Cash Myers
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently work on NextJS project.
+- 🌱 I’m currently work on a React/Python-Django Saas project.
 - 💞️ I’m looking to collaborate on NextJS, React, and C#
 - 📫 How to reach me cmyers880@gmail.com and on [LinkedIn](https://www.linkedin.com/in/cash-myers-91b69b23)
 
