@@ -75,7 +75,7 @@ Design-Project Management
 
 Historical Technologies (Midrange/Mainframe)
 
-<img src="https://raw.githubusercontent.com/cashmy/cashmy/main/assembly_logo.png" alt="Assembly Language logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/IBM_RPG_logo.png" alt="RPG III/400 logo" width="100" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/SYNON.png" alt="Synon" width="75" height="50" />
+<img src="https://raw.githubusercontent.com/cashmy/cashmy/main/assembly_logo.png" alt="Assembly Language logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/IBM_RPG_logo.png" alt="RPG III/400 logo" width="100" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/SYNON.png" alt="Synon" width="40" height="50" />
 
 
 ---
