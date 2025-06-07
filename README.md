@@ -13,11 +13,6 @@ AI & Data Analytics
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter logo" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/chatgpt-64.png" alt="ChatGPT Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/gemini-ai-48.png" alt="Gemini Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/Microsoft-Copilot-Logo.png" alt="Microsoft CoPilot Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/power-bi-logo-48.png" alt="Power BI Logo" width="50" height="50"/>
 
 
-Design-Project Management  
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" alt="XD logo" width="50" height="50" /> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png" alt="Draw IO logo" width="50" height="50" /> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/4_Indesign_Adobe_logo_logos-512.png" alt="InDesign logo" width="50" height="50" />
-
-
 Languages and FrontEnd
 
 
@@ -37,7 +32,7 @@ CI/CD
 
 Databases
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" width="50" height="50" /> <img src="https://w7.pngwing.com/pngs/444/851/png-transparent-airtable-database-spreadsheet-logo-application-software-slack-logo-angle-rectangle-orange.png" alt="Airtable logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite logo" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" width="50" height="50" /> <img src="https://w7.pngwing.com/pngs/444/851/png-transparent-airtable-database-spreadsheet-logo-application-software-slack-logo-angle-rectangle-orange.png" alt="Airtable logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="SQLite logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/vector_db.png" alt="Vector DB's for AI" width="50" height="50" />
 
 
 IDE's
@@ -65,12 +60,22 @@ Testing-TDD-Sandbox
  
 3rd Party API Integrations
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" alt="Google Maps" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original-wordmark.svg" alt="Google Maps" width="50" height="50" /> <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/youtube-icon-app-logo-png-9.png" alt="Youtube" width="50" height="50" />
 <img src="https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_150x94.png" alt="PayPal" width="75" height="50" />
 
 Amazon Web Services
 
 <img src="https://images.edrawsoft.com/images2020/Amazon-EC2.jpg" alt="EC2 logo" width="50" height="50" /> <img src="https://images.edrawsoft.com/images2020/icon/Elastic%20Load%20Balancing.png" alt="ELB logo" width="65" height="50" /> <img src="https://images.edrawsoft.com/images2020/icon/aws-elastic-beanstalk.jpg" alt="EB logo" width="50" height="50" /> <img src="https://images.edrawsoft.com/images2020/icon/amazon-s3.jpg" alt="S3 logo" width="50" height="50" />
+
+
+Design-Project Management  
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" alt="XD logo" width="50" height="50" /> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png" alt="Draw IO logo" width="50" height="50" /> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/4_Indesign_Adobe_logo_logos-512.png" alt="InDesign logo" width="50" height="50" />
+
+Historical Technologies (Midrange/Mainframe)
+
+<img src="https://raw.githubusercontent.com/cashmy/cashmy/main/assembly_logo.png" alt="Assembly Language logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/IBM_RPG_logo.png" alt="RPG III/400 logo" width="100" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/SYNON.png" alt="Synon" width="75" height="50" />
 
 
 ---
