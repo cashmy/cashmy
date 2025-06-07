@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cashmy  Cash Myers
-- 👀 I’m interested in Full Stack Development
+- 👀 From a Software Engineering POV, I’m interested in Full Stack Development
 - 🌱 I’m currently work on a React/Python-Django Saas project.
-- 💞️ I’m looking to collaborate on NextJS, React, and Vite
+- 💞️ I’m looking to collaborate on NextJS, React, Vite, Python, and AI Integration.
 - 📫 How to reach me cmyers880@gmail.com and on [LinkedIn](https://www.linkedin.com/in/cash-myers-91b69b23)
 
 ---
@@ -48,7 +48,7 @@ IDE's
 
 Version Control & Package Managers
 
-<img src="https://www.pngkey.com/png/full/178-1787243_github-icon-png-github-icon-white-png.png" alt="GitHub logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn logo" width="50" height="50" /> <img src="https://www.nuget.org/Content/gallery/img/logo-og-600x600.png" alt="NuGet logo" width="50" height="50" /> <img src="https://docs.astral.sh/uv/assets/logo-letter.svg" alt="UV by Astral logo" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/cashmy/cashmy/main/github-original.png" alt="GitHub logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn logo" width="50" height="50" /> <img src="https://www.nuget.org/Content/gallery/img/logo-og-600x600.png" alt="NuGet logo" width="50" height="50" /> <img src="https://docs.astral.sh/uv/assets/logo-letter.svg" alt="UV by Astral logo" width="50" height="50" />
 
 
 Styling
