@@ -53,7 +53,7 @@ Styling
 
 Testing-TDD-Sandbox
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="Codepen logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/8908513.png" alt="Cypress logo" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original.svg" alt="Codepen logo" width="50" height="50" style="background-color: white;" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/8908513.png" alt="Cypress logo" width="50" height="50" />
 
 
  
