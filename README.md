@@ -37,7 +37,7 @@ CI/CD
 
 Databases
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" width="50" height="50" /> <img src="https://w7.pngwing.com/pngs/444/851/png-transparent-airtable-database-spreadsheet-logo-application-software-slack-logo-angle-rectangle-orange.png" alt="Airtable logo" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" width="50" height="50" /> <img src="https://w7.pngwing.com/pngs/444/851/png-transparent-airtable-database-spreadsheet-logo-application-software-slack-logo-angle-rectangle-orange.png" alt="Airtable logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite logo" width="50" height="50" />
 
 
 IDE's
@@ -58,7 +58,7 @@ Styling
 
 Testing-TDD-Sandbox
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/codepen-original.png" alt="Codepen logo" width="50" height="50"  /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/8908513.png" alt="Cypress logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="Vitest logo" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/codepen-original.png" alt="Codepen logo" width="50" height="50"  /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/8908513.png" alt="Cypress logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="Vitest logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman logo" width="50" height="50" />
 
 
 
