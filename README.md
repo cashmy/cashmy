@@ -8,6 +8,11 @@
 
 Toolbox
 
+AI & Data Analytics
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter logo" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/chatgpt-64.png" alt="ChatGPT Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/gemini-ai-48.png" alt="Gemini Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/power-bi-logo-48.png" alt="Power BI Logo" width="50" height="50"/>
+
+
 Design-Project Management  
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" alt="XD logo" width="50" height="50" /> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png" alt="Draw IO logo" width="50" height="50" /> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/4_Indesign_Adobe_logo_logos-512.png" alt="InDesign logo" width="50" height="50" />
@@ -22,12 +27,12 @@ Languages and FrontEnd
 
 BackEnd-ORM's
 
-<img src="https://www.natmarchand.fr/wp-content/uploads/2018/05/asp.net_.jpg" alt="ASP.net logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/django-plain.png" alt="Django logo" width="50" height="50"  /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/djangorest-original-wordmark.png" alt="Django Rest Framework logo" width="50" height="50"  /> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="ExpressJS logo" width="50" height="50" />  <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/flask-original.png" alt="Flask Icon" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50" height="50" />
+<img src="https://www.natmarchand.fr/wp-content/uploads/2018/05/asp.net_.jpg" alt="ASP.net logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/django-plain.png" alt="Django logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/djangorest-original-wordmark.png" alt="Django Rest Framework logo" width="50" height="50"  />  <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/flask-original.png" alt="Flask Icon" width="50" height="50" /> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="ExpressJS logo" width="50" height="50" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50" height="50" />
 
 
 CI/CD
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-original.svg" alt="Travis logo" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-original.svg" alt="Travis logo" width="50" height="50" /> <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions logo" width="50" height="50"/>
 
 
 Databases
@@ -43,7 +48,7 @@ IDE's
 
 Version Control & Package Managers
 
-<img src="https://www.pngkey.com/png/full/178-1787243_github-icon-png-github-icon-white-png.png" alt="GitHub logo" width="50" height="50" /> <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn logo" width="50" height="50" /> <img src="https://www.nuget.org/Content/gallery/img/logo-og-600x600.png" alt="NuGet logo" width="50" height="50" /> <img src="https://docs.astral.sh/uv/assets/logo-letter.svg" alt="UV by Astral logo" width="50" height="50" />
+<img src="https://www.pngkey.com/png/full/178-1787243_github-icon-png-github-icon-white-png.png" alt="GitHub logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn logo" width="50" height="50" /> <img src="https://www.nuget.org/Content/gallery/img/logo-og-600x600.png" alt="NuGet logo" width="50" height="50" /> <img src="https://docs.astral.sh/uv/assets/logo-letter.svg" alt="UV by Astral logo" width="50" height="50" />
 
 
 Styling
@@ -53,7 +58,7 @@ Styling
 
 Testing-TDD-Sandbox
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/codepen-original.png" alt="Codepen logo" width="50" height="50"  /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/8908513.png" alt="Cypress logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest logo" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/codepen-original.png" alt="Codepen logo" width="50" height="50"  /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/8908513.png" alt="Cypress logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="Vitest logo" width="50" height="50" />
 
 
 
