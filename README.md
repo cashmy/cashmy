@@ -77,9 +77,9 @@ Documentation Management
 
 
 
-Historical Technologies (Midrange/Mainframe)
+Historical Technologies (Early/Midrange/Mainframe)
 
-<img src="https://raw.githubusercontent.com/cashmy/cashmy/main/assembly_logo.png" alt="Assembly Language logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/IBM_RPG_logo.png" alt="RPG III/400 logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/SYNON.png" alt="Synon" width="50" height="50" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTozk39BvhWEjCCgnCjeRxuOJJiCmLhZqHVeg&s" alt="Basic" width="50" height="50" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg" alt="Delphi" width="50" height="50" /><img src="https://raw.githubusercontent.com/cashmy/cashmy/main/assembly_logo.png" alt="Assembly Language logo" width="50" height="50" /> <img src="https://www.recordinformatica.it/wp-content/uploads/2023/02/RPG-300x160.jpg" alt="RPG III/400 logo" width="50" height="50" /> <img src="https://www.ile-rpg.org/wp-content/uploads/2021/02/rpg-logo-big.png" alt="RPG ILE logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/cashmy/cashmy/main/SYNON.png" alt="Synon" width="50" height="50" />
 
 
 ---
