@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cashmy  Cash Myers
-- 👀 From a Software Engineering POV, I’m interested in Full Stack Development
-- 🌱 I’m currently work on a React/Python-Django Saas project.
+- 👀 From a Software Engineering POV, I’m hihgly involved in AI development!
+- 🌱 I’m currently work on a AI architectural development across full stack applicaitons.
 - 💞️ I’m looking to collaborate on NextJS, React, Vite, Python, and AI Integration.
 - 📫 How to reach me cmyers880@gmail.com and on [LinkedIn](https://www.linkedin.com/in/cash-myers-91b69b23)
 
